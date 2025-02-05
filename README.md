@@ -2,6 +2,8 @@
 
 An open-source implementation of an iterative knowledge base search agent using Openai/Ollama, inspired by Ashpreet Bedi's DeepKnowledge concept.
 
+![Original DeepKnowledge Concept](https://github.com/lesteroliver911/agno-deepknowledge/blob/main/assets/agno-agent.png)
+
 ## 🌟 Inspiration
 This project was inspired by [Ashpreet Bedi](https://www.linkedin.com/in/ashpreetbedi/)'s (CEO of Agno) LinkedIn post about DeepKnowledge. The original concept demonstrated:
 - Breaking down complex queries into sub-questions
