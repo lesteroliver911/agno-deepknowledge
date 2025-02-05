@@ -21,7 +21,7 @@ This implementation:
 1. Ensure you have Ollama installed
 2. Clone this repository
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run Streamlit app: `streamlit run streamlit_app.py`
+4. Run Streamlit app: `streamlit run agno_st.py`
 
 ## 📄 License
 MIT License - See LICENSE file
