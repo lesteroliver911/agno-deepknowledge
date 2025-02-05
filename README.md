@@ -1,6 +1,6 @@
 # DeepKnowledge-Streamlit (OpenAI)
 
-An open-source implementation of an iterative knowledge base search agent using Openai/Ollama, inspired by Ashpreet Bedi's DeepKnowledge concept.
+An open-source implementation of an iterative knowledge base search agent using OpenaAI/Ollama, inspired by Ashpreet Bedi's DeepKnowledge concept.
 
 ![Original DeepKnowledge Concept](https://github.com/lesteroliver911/agno-deepknowledge/blob/main/assets/agno-agent.png)
 
