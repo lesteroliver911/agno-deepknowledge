@@ -12,13 +12,13 @@ This project was inspired by [Ashpreet Bedi](https://www.linkedin.com/in/ashpree
 
 ## 🚀 This Implementation
 This implementation:
-- Uses Ollama for local execution
+- Uses Ollama /OpenAI
 - Provides both CLI and Streamlit interfaces
-- Is fully open-source and customizable
+- Is fully open-source
 - Allows for easy deployment and modification
 
 ## 🛠️ Setup and Installation
-1. Ensure you have Ollama installed
+1. Ensure you have Ollama installed or the OpenAI API Key
 2. Clone this repository
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run Streamlit app: `streamlit run agno_st.py`
